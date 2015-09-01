@@ -1,5 +1,10 @@
 package com.mylearnings.scala
 
+/**
+ * Like 'void' in Java, we can use 'Unit' to void return
+ * 
+ * @author senthil.nayagan
+ */
 object FunctionWithoutReturnStmt {
 
   // Main method

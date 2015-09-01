@@ -1,5 +1,13 @@
 package com.mylearnings.scala
 
+/**
+ * Scala allows you to indicate (by * symbol) that the last parameter 
+ * to a function may be repeated.
+ * 
+ * This allows clients to pass variable length argument lists to the function.
+ * 
+ * @author senthil.nayagan
+ */
 object FunctionWithVariableArgs {
 
   // Main method

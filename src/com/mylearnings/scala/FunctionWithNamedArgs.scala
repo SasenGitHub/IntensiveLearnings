@@ -1,5 +1,17 @@
 package com.mylearnings.scala
 
+/**
+ * In a normal function call, the arguments in the call are matched 
+ * one by one in the order of the parameters of the called function.
+ * 
+ * Named arguments in Scala allow us to pass arguments to a function 
+ * in a different order.
+ * 
+ * The syntax is simply that each argument is preceded by a parameter 
+ * name and an equals sign.
+ * 
+ * @author senthil.nayagan
+ */
 object FunctionWithNamedArgs {
 
   // Main method

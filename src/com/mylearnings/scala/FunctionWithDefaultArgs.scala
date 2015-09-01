@@ -1,5 +1,14 @@
 package com.mylearnings.scala
 
+/**
+ * Scala lets you specify default values for function parameters.
+ * 
+ * The argument for such a parameter can optionally be omitted from 
+ * a function call, in which case the corresponding argument will be 
+ * filled in with the default.
+ * 
+ * @author senthil.nayagan
+ */
 object FunctionWithDefaultArgs {
   
   // Main method
